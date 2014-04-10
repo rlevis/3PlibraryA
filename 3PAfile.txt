@@ -1,2 +1,3 @@
 * updated to version 2.0.0.
 * developing -> 3.0.0.
+* made changes during ProjectA development.
